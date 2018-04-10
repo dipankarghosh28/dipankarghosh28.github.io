@@ -1,6 +1,6 @@
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Arial Verdana', sans-serif;
   color: #545E6C;
   background: #f5f5f5;
   font-size: 14px;
@@ -25,7 +25,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #1c63ce;
+  color: #08db83;
 }
 a:focus {
   text-decoration: none;
